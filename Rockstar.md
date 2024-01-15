@@ -4,8 +4,8 @@
 ## Introduction
 In today's digital landscape, organizations face an ever-increasing threat from cyber attacks. The Rockstar Cyber Attack of 2024, a sophisticated and devastating breach, has brought cybersecurity to the forefront of every organization's priority list.
 
-![](Splash.png =400x400)
-
+[![](Splash.png =400x400)
+](https://imgur.com/eFgsaKe)
 
 As businesses strive to protect their digital assets, it is crucial to implement robust defense mechanisms. This guide dives into the strategies and best practices to safeguard your organization against this notorious attack and preserve your valuable digital assets.
 
